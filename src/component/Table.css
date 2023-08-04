@@ -1,0 +1,19 @@
+.t1{
+    margin-top: 100px;
+    margin-left: 250px;
+    width: 70%;
+     border: 2px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+#fr1{
+text-align: center;
+}
+body{
+    background-color:antiquewhite;
+}
